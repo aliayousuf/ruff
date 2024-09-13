@@ -1,0 +1,13 @@
+h1{
+    background-color: blueviolet;
+}
+
+.abc{
+    background-color: chocolate;
+}
+.xyz{
+    background-color:chartreuse;
+}
+#header .xyz {
+ color: aqua;
+}
